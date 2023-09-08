@@ -12,7 +12,9 @@ The first step is actually to have already done your good deed before creating a
 
 The second step is to open a new Merge Request for this repository with just one file in Markdown.
 
-It must have the following name: {{dd-mm-yyyy-hhmm}} + the title of the proposal in kebab-case, for example: `08-09-2023-1904-page-translation.md`
+It must have the following name: {{dd-mm-yyyy/hhmm}} + the title of the proposal in kebab-case, for example: `08-09-2023/1904-page-translation.md`
+
+> You must create a folder if there isn't one, or just include your file there.
 
 And it must follow a template, which follows as an example:
 

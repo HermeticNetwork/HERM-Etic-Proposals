@@ -12,7 +12,9 @@ O primeiro passo é de fato já ter feito a sua boa ação antes de criar uma pr
 
 O segundo passo é abrir um novo Merge Request para este repositório com apenas um arquivo em Markdown.
 
-Ele deve possuir o seguinte nome: {{dd-mm-yyyy-hhmm}} + o título da proposta em kebab-case, como por exemplo: `08-09-2023-1904-page-translation.md`
+Ele deve possuir o seguinte nome: {{dd-mm-yyyy/hhmm}} + o título da proposta em kebab-case, como por exemplo: `08-09-2023/1904-page-translation.md`
+
+> Você deve criar uma pasta caso não haja, ou apenas incluir seu arquivo lá.
 
 E ele deve seguir um template, que segue de exemplo:
 
