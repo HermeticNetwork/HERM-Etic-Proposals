@@ -1,4 +1,4 @@
-# HERM Karma Proposals
+# HERM Etic Proposals
 
 This repository contains all of people's contributions, whether via Code or via Proof of Generosity.
 
