@@ -23,6 +23,10 @@ In addition to support for Arabic, which has a different standard, but was not a
 
 I hope I don't have any glaring errors.
 
+As well as some other things, like changing the color to a more neutral one.
+
+Check out the website: hermetic.surge.sh
+
 #### Proof of Action:
 
 A few commits on: https://github.com/HermeticNetwork/Hermetic-Website/commit/7d1dc1ca19c91f0aa0de491288d8ff2ff98c31c6
